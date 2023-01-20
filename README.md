@@ -24,7 +24,7 @@ This repository includes the implementation of the myocardial infarction (MI) de
 ```
 conda create -n echoAI python=3.9
 conda activate echoAI
-conda install tensorflow-gpu=2.4.1
+conda install tensorflow-gpu
 conda install scikit-learn=1.1.1
 ```
 
