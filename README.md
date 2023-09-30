@@ -61,12 +61,14 @@ python train.py --gpu 2 --view 4CH
 If you use the implementation provided in this repository, please cite the following paper:
 
 ```
-@misc{https://doi.org/10.48550/arxiv.2111.05790,  
-  author = {Degerli, Aysen and Kiranyaz, Serkan and Hamid, Tahir and Mazhar, Rashid and Gabbouj, Moncef},  
-  title = {Early Myocardial Infarction Detection over Multi-view Echocardiography},
-  publisher = {arXiv},
-  year = {2021},
-  doi = {10.48550/ARXIV.2111.05790}
+@article{DEGERLI2024105448,
+title = {Early myocardial infarction detection over multi-view echocardiography},
+journal = {Biomedical Signal Processing and Control},
+volume = {87},
+pages = {105448},
+year = {2024},
+doi = {https://doi.org/10.1016/j.bspc.2023.105448},
+author = {Aysen Degerli and Serkan Kiranyaz and Tahir Hamid and Rashid Mazhar and Moncef Gabbouj}
 }
 ```
 
